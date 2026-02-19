@@ -1,6 +1,8 @@
 # ia-55354-TiagoSequeira
 individual-assignment-TigasEX created by GitHub Classroom
 
+NOTE (2026): The game is deprecated and probably won't run.
+
 HOW TO RUN THE GAME:
 Run the .exe on the BB on the root of the package.
 
